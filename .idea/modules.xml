@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/finaltask-master/finaltask.iml" filepath="$PROJECT_DIR$/finaltask-master/finaltask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/finaltask-master.iml" filepath="$PROJECT_DIR$/.idea/finaltask-master.iml" />
+    </modules>
+  </component>
+</project>
